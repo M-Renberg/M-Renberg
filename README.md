@@ -19,8 +19,8 @@ I'm right now in my first year of studying and alot of the thing I upload here o
 
 ### 👾 Tech Stack:
 
-- **Languages** C#, Python, Typescript, XML, HTML/CSS, SQL
-- **Frameworks & Tools:** .NET, Git
+- **Languages** C#, Python, Javascript, Typescript, XML, HTML/CSS, SQL
+- **Frameworks & Tools:** .NET, React, Git
 
 ---
 ### Contact me:
